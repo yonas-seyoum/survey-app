@@ -1,0 +1,69 @@
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+*.test.js
+*.test.ts
+*.test.tsx
+*.spec.js
+*.spec.ts
+*.spec.tsx
+
+# production
+# /build
+/.next
+/out
+
+# environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+tsconfig.json
+tsconfig.tsbuildinfo
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettier*
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Storybook
+.storybook/
+
+# JetBrains IDEs (IntelliJ, WebStorm, PhpStorm, etc.)
+.idea/
+
+# Next.js build artifacts
+.next/
